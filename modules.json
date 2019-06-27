@@ -1,0 +1,6 @@
+{
+  "name": "frida-onload",
+  "description": "get a callback for module initializations",
+  "link": "https://github.com/iGio90/frida-onload",
+  "npm-setup": "git+https://iGio90@github.com/iGio90/frida-onload"
+}
