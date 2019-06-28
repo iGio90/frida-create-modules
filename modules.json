@@ -3,7 +3,7 @@
     "name": "frida-onload",
     "description": "get a callback for module initializations",
     "author": "iGio90",
-    "link": "https://github.com/iGio90/frida-onload",g
+    "link": "https://github.com/iGio90/frida-onload",
     "npm-setup": "git+https://iGio90@github.com/iGio90/frida-onload"
   },
   {
