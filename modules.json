@@ -8,7 +8,7 @@
   },
   {
     "name": "hooah-trace",
-    "description": "get a callback for module initializations",
+    "description": "instructions tracing like magic",
     "author": "iGio90",
     "link": "https://github.com/iGio90/hooah-trace",
     "npm-setup": "git+https://iGio90@github.com/iGio90/hooah-trace"
