@@ -1,5 +1,12 @@
 [
   {
+    "name": "frida-java-ext",
+    "description": "Some 'one-line' frida api to avoid code recycling here and there",
+    "author": "iGio90",
+    "link": "https://github.com/iGio90/frida-java-ext",
+    "npm-setup": "git+https://iGio90@github.com/iGio90/frida-java-ext"
+  },
+  {
     "name": "frida-onload",
     "description": "get a callback for module initializations",
     "author": "iGio90",
