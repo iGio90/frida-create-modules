@@ -19,5 +19,12 @@
     "author": "iGio90",
     "link": "https://github.com/iGio90/hooah-trace",
     "npm-setup": "git+https://iGio90@github.com/iGio90/hooah-trace"
+  },
+  {
+    "name": "frida-elf",
+    "description": "A frida module to parse Elf headers in runtime",
+    "author": "iGio90",
+    "link": "https://github.com/iGio90/frida-elf",
+    "npm-setup": "git+https://iGio90@github.com/iGio90/frida-elf"
   }
 ]
