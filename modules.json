@@ -1,7 +1,14 @@
 [
   {
+    "name": "frida-elf",
+    "description": "A frida module to parse Elf headers in runtime",
+    "author": "iGio90",
+    "link": "https://github.com/iGio90/frida-elf",
+    "npm-setup": "git+https://iGio90@github.com/iGio90/frida-elf"
+  },
+  {
     "name": "frida-java-ext",
-    "description": "Some 'one-line' frida api to avoid code recycling here and there",
+    "description": "some 'one-line' frida api to avoid code recycling here and there",
     "author": "iGio90",
     "link": "https://github.com/iGio90/frida-java-ext",
     "npm-setup": "git+https://iGio90@github.com/iGio90/frida-java-ext"
@@ -19,12 +26,5 @@
     "author": "iGio90",
     "link": "https://github.com/iGio90/hooah-trace",
     "npm-setup": "git+https://iGio90@github.com/iGio90/hooah-trace"
-  },
-  {
-    "name": "frida-elf",
-    "description": "A frida module to parse Elf headers in runtime",
-    "author": "iGio90",
-    "link": "https://github.com/iGio90/frida-elf",
-    "npm-setup": "git+https://iGio90@github.com/iGio90/frida-elf"
   }
 ]
